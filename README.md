@@ -1,3 +1,18 @@
+# Lite Rx API Hands-on をやってみた
+
+## env
+
+- Java 17
+- Reactor 3
+  - RxJava 3
+
+### Other
+
+> For RxJava 3, you should not use Reactor Adapter but only RxJava 3 and Reactor Core.
+
+とあるので、Part09 の Reactor Adapter はやりません。
+
+---
 # Lite Rx API Hands-on
 
 This Hands-on is designed to help you to learn easily the lite Rx API provided by [Reactor Core 3.x](https://github.com/reactor/reactor-core/).
